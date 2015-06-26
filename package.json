@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/ysegorov/jummish/issues"
   },
-  "homepage": "https://github.com/ysegorov/jummish#readme"
+  "homepage": "https://github.com/ysegorov/jummish#readme",
+  "dependencies": {
+    "dom4": "^1.4.6",
+    "proto-js": "ysegorov/proto-js#0.1.0",
+    "whatwg-fetch": "^0.9.0"
+  }
 }
