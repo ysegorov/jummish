@@ -1,0 +1,23 @@
+{
+  "name": "jummish",
+  "version": "0.1.0",
+  "description": "Frontend library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysegorov/jummish.git"
+  },
+  "keywords": [
+    "jummish",
+    "frontend"
+  ],
+  "author": "Yuri Egorov <ysegorov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ysegorov/jummish/issues"
+  },
+  "homepage": "https://github.com/ysegorov/jummish#readme"
+}
