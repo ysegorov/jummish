@@ -1,0 +1,7 @@
+--reporter spec
+--ui bdd
+--harmony
+--es_staging
+--harmony_shipping
+--harmony_classes
+--harmony_arrow_functions
