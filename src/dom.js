@@ -4,6 +4,9 @@
 var g = require('./global'),
     _ = require('./utils');
 
+if (g.document) {
+    require('dom4');
+}
 
 var doc = g.document,
     log = g.log,

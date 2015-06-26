@@ -3,6 +3,14 @@
 'use strict';
 
 
+var g = require('./global');
+
+
+if (g.document) {
+    require('whatwg-fetch');
+}
+
+
 function status(response) {
     if (response.status >= 200 && response.status < 300) {
         return response;

@@ -3,9 +3,6 @@
 
 'use strict';
 
-require('dom4');
-require('whatwg-fetch');
-
 
 module.exports = {
     $: require('./src/dom'),
