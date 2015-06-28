@@ -1,6 +1,6 @@
 {
-  "name": "jummish",
-  "version": "0.1.0",
+  "name": "juvi",
+  "version": "0.1.1",
   "description": "Frontend library",
   "main": "index.js",
   "scripts": {
