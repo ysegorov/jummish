@@ -1,6 +1,6 @@
 {
   "name": "juvi",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Frontend library",
   "main": "index.js",
   "scripts": {
@@ -8,22 +8,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ysegorov/jummish.git"
+    "url": "git+https://github.com/ysegorov/juvi.git"
   },
   "keywords": [
-    "jummish",
+    "juvi",
     "frontend"
   ],
   "author": "Yuri Egorov <ysegorov@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ysegorov/jummish/issues"
+    "url": "https://github.com/ysegorov/juvi/issues"
   },
-  "homepage": "https://github.com/ysegorov/jummish#readme",
+  "homepage": "https://github.com/ysegorov/juvi#readme",
   "dependencies": {
     "dom4": "^1.4.6",
-    "proto-js": "ysegorov/proto-js#0.1.0",
     "whatwg-fetch": "^0.9.0"
+  },
+  "peerDependencies": {
+    "proto-js": "ysegorov/proto-js#0.1.0"
   },
   "devDependencies": {
     "chai": "^3.0.0",
