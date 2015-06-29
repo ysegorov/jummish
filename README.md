@@ -46,7 +46,7 @@ var ItemView = View.extend({
     },
     init: function init() {
         // initialize
-        this.items = [{title: 'A'}, {title: 'B', title: 'C'}];
+        this.items = [{title: 'A'}, {title: 'B'}, {title: 'C'}];
     },
     populateNodes: function populateNodes() {
         var el = this.el,
