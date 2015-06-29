@@ -5,7 +5,7 @@ Frontend library trying to keep client-side code clean and simple
 ## Installation
 
 ```shell
-$ npm install --save ysegorov/juvi#0.1.0
+$ npm install --save ysegorov/juvi#0.1.3
 ```
 
 ## Usage
