@@ -1,3 +1,5 @@
+**This project is archived.**
+
 # juvi
 
 Frontend library trying to keep client-side code clean and simple
